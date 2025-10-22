@@ -15,10 +15,12 @@ int main(){
 		}
 		else {
 			printf("The number is not in array.");
+			break;
 		}
 	}
 	printf("%d",count);
 	
 return 0;		
 }
+
 
